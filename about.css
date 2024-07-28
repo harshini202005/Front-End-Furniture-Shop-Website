@@ -1,0 +1,44 @@
+body{
+    background-image: url(images/ab.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+}
+.cont {
+    background-color:rgb(82, 74, 74);
+    width: 100%;
+    height: 2.4cm;
+    
+}
+.navigation{
+text-align: right;
+}
+#logo{
+    height:2.5cm ;
+    width: 4cm;
+    float: left;
+}
+.navigation a{
+    text-decoration-line: none;
+    font-size: 20px;
+    padding: 20px;
+    display: inline-flex;
+    font-family: sans-serif;
+    font-style: bold;
+    color:white
+   }
+.demo{
+    padding-left: 18%;
+    font-size: 23px;
+    width: 50%;
+    color: black;
+    font-style: oblique;
+    padding-top: 30px;
+}
+.para{
+    font-size: 34px;
+    font-style: italic;
+    display: flex;
+    justify-content:center;
+
+}
